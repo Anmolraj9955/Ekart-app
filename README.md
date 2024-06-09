@@ -8,12 +8,10 @@ user sessions and shopping carts
 
 ## SOME SCREENSHOTS
 
-<p>
   <a href="https://freeimage.host/"><img src="https://iili.io/JyIC28Q.jpg" alt="JyIC28Q.jpg" border="0"></a>
   <a href="https://freeimage.host/"><img src="https://iili.io/JyICCoF.jpg" alt="JyICCoF.jpg" border="0"></a>
   <a href="https://freeimage.host/"><img src="https://iili.io/JyICElf.jpg" alt="JyICElf.jpg" border="0"></a>
   
-</p>
 
 ## Features
 
