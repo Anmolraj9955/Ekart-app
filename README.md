@@ -1,16 +1,24 @@
-# anmolapp
+# ANMOLAPP
 
-A new Flutter project.
+Introducing An E-kart App that allows you to view and purchase an items.I used Flutter software to build this app because flutter is a cross platform software that is used to build android as well as ios apps. 
+Build UI for purchasing products, implementing efficient screen navigation using Navigator.
+Used Integrating APIs for data exchange, and state management for handle
+user sessions and shopping carts
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## SCREENSHOTS
 
-A few resources to get you started if this is your first Flutter project:
+<p>
+  <a href="https://freeimage.host/"><img src="https://iili.io/JyIC28Q.jpg" alt="JyIC28Q.jpg" border="0"></a>
+  <a href="https://freeimage.host/"><img src="https://iili.io/JyICCoF.jpg" alt="JyICCoF.jpg" border="0"></a>
+  <a href="https://freeimage.host/"><img src="https://iili.io/JyICElf.jpg" alt="JyICElf.jpg" border="0"></a>
+  <a href="https://freeimage.host/i/JyICXNS"><img src="https://iili.io/JyICXNS.md.jpg" alt="JyICXNS.md.jpg" border="0"></a>
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Beautiful user interface
+- UI responsive
+- Run on android as well as iphone
+
+
